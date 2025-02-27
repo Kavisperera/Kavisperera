@@ -72,7 +72,21 @@
 
 
 ---
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kavisperera&show_icons=true&locale=en&layout=compact" alt="kavisperera" /></p>
 
-
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=kavisperera&show_icons=true&locale=en" alt="kavisperera" /></p>
+
+<br>
+<br>
+<p align="center">
+  <a href="https://github.com/kavisperera">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kavisperera&theme=radical" alt="Chirath Yahampath's GitHub Contribution"/>
+  </a>
+</p>
+<br/>
+<br/>
+
+---
+[![kavisperera's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kavisperera&theme=react-dark)](https://github.com/ChirathYahampath/github-readme-activity-graph)
+<br/>
