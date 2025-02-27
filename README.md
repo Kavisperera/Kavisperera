@@ -88,5 +88,5 @@
 <br/>
 
 ---
-[![kavisperera's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kavisperera&theme=react-dark)](https://github.com/ChirathYahampath/github-readme-activity-graph)
+[![kavi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kavisperera&theme=react-dark)](https://github.com/ChirathYahampath/github-readme-activity-graph)
 <br/>
