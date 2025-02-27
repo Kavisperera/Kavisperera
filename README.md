@@ -72,19 +72,24 @@
 
 
 ---
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kavisperera&show_icons=true&locale=en&layout=compact&width=350&height=200" alt="kavisperera" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kavisperera&show_icons=true&locale=en&layout=compact" alt="kavisperera" /></p>
+<p>
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=kavisperera&show_icons=true&locale=en&width=400&height=200" alt="kavisperera" />
+</p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=kavisperera&show_icons=true&locale=en" alt="kavisperera" /></p>
+<br><br><br><br>
 
-<br>
-<br>
+
+
+
 <p align="center">
   <a href="https://github.com/kavisperera">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kavisperera&theme=radical" alt="Chirath Yahampath's GitHub Contribution"/>
   </a>
 </p>
-<br/>
 <br/>
 
 ---
