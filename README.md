@@ -149,22 +149,25 @@
     <td><a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-github.svg" width="40" height="40" style="filter: brightness(0.8);"/></a></td>
   </tr>
 </table>
-
 <hr>
-
+<br><br> <!-- This will add more space between the images -->
 <p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kavisperera&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="ovi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=kavisperera&show_icons=true&locale=en&theme=gruvbox" alt="ovi" width="410" />
-</P>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kavisperera&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="ovi" />
+ <img align="right" src="https://github-readme-stats.vercel.app/api?username=kavisperera&show_icons=true&locale=en&theme=gruvbox" alt="ovi" width="410" />
+</p>
 
-<br><br><br><br>
+<br><br> <!-- This will add more space between the images -->
+<br><br>
+<br><br>
+<br><br>
+<br><br> <!-- Additional space if needed -->
 
 <p align="center">
   <a href="https://github.com/kavisperera">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kavisperera&theme=radical" alt="kavisperera's GitHub Contribution"/>
   </a>
 </p>
-<br/>
+
 
 ---
 [![kavi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kavisperera&theme=react-dark)](https://github.com/kavisperera/github-readme-activity-graph)
