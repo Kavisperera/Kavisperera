@@ -36,7 +36,6 @@
 ✅ **Certified Java Developer** *(2024)*  
 ✅ **Winner of Coding Challenge** *(2024)*  
 ✅ **Best Group Project - iCET Industry-Minds**  
-✅ **Open Source Contributor on GitHub**  
 
 🚀 Passionate about coding, always learning, and open to new opportunities.
 ### 📫  **Let's Connect!**  
