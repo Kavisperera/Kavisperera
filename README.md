@@ -152,7 +152,7 @@
 <br><br> <!-- This will add more space between the images -->
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kavisperera&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="ovi" />
- <img align="right" src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&locale=en&theme=gruvbox" alt="kavisperera" width="410" />
+ <img align="right" src="https://github-readme-stats.vercel.app/api?username=kavisperera&show_icons=true&locale=en&theme=gruvbox" alt="kavisperera" width="410" />
 </p>
 
 <br><br> <!-- This will add more space between the images -->
