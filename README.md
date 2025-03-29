@@ -95,7 +95,7 @@
 
 
 ---
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">🔗 &nbsp;Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/kavisperera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kavisperera" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kavindya-perera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kavindya-perera" height="30" width="40" /></a>
@@ -151,25 +151,28 @@
 <hr>
 <br><br> <!-- This will add more space between the images -->
 <p>
-  <h3 align="left">🛠 &nbsp; Most Used Languages</h3>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kavisperera&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="kavisperer" width="400" height="180"/>
-  <h3 align="center">🛠 &nbsp; Github Status</h3>
- <img align="right" src="https://github-readme-stats.vercel.app/api?username=kavisperera&show_icons=true&locale=en&theme=gruvbox" alt="kavisperera" width="460" height="185" />
+  <!-- Most Used Languages Section -->
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kavisperera&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="kavisperera" width="320"  />
+
+  <!-- GitHub Status Section -->
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=kavisperera&show_icons=true&locale=en&theme=gruvbox" alt="kavisperera" width="420" />
 </p>
 
 <br><br> <!-- This will add more space between the images -->
 <br><br>
+<br><br>
 <br><br> <!-- Additional space if needed -->
 
-<h3 align="right">🛠 &nbsp; Streak Stats</h3>
+<h3 align="center">🔥 &nbsp; Streak Stats</h3>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kavisperera&theme=algolia" alt="kavisperera"  /></p>
+<br><br>
 
+<h3 align="center">📊 &nbsp; GitHub Contribution</h3>
 <p align="center">
   <a href="https://github.com/kavisperera">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kavisperera&theme=radical" alt="kavisperera's GitHub Contribution"/>
   </a>
 </p>
-
 
 ---
 [![kavi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kavisperera&theme=react-dark)](https://github.com/kavisperera/github-readme-activity-graph)
