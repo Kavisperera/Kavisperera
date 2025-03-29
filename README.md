@@ -153,7 +153,7 @@
 <p>
   <h3 align="left">🛠 &nbsp; Most Used Languages</h3>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kavisperera&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="kavisperer" width="400" height="180"/>
-  <h3 align="right">🛠 &nbsp; Github Status</h3>
+  <h3 align="center">🛠 &nbsp; Github Status</h3>
  <img align="right" src="https://github-readme-stats.vercel.app/api?username=kavisperera&show_icons=true&locale=en&theme=gruvbox" alt="kavisperera" width="420" height="180" />
 </p>
 
