@@ -161,7 +161,7 @@
 <br><br>
 <br><br> <!-- Additional space if needed -->
 
-<h3 align="center">🛠 &nbsp; Streak Stats</h3>
+<h3 align="right">🛠 &nbsp; Streak Stats</h3>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kavisperera&theme=algolia" alt="kavisperera"  /></p>
 
 <p align="center">
