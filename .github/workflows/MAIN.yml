@@ -20,11 +20,11 @@ jobs:
           svg_out_path: dist/github-contribution-grid-snake.svg
 
       - name: Commit and Push changes
-        uses: github-actions-x/commit@v2
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          commit_message: "Updated Snake Contribution Graph"
           branch: output
-          force: true
+          push_options: --force
 
       - name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v2.1.3
