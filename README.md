@@ -155,6 +155,8 @@
  <img align="right" src="https://github-readme-stats.vercel.app/api?username=kavisperera&show_icons=true&locale=en&theme=gruvbox" alt="kavisperera" width="410" />
 </p>
 
+### 🔥 Streak Stats
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kavisperera&theme=algolia" alt="muhammadfaizanhaidar"  /></p>
 <br><br> <!-- This will add more space between the images -->
 <br><br>
 <br><br>
