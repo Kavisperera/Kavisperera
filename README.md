@@ -154,7 +154,7 @@
   <h3 align="left">🛠 &nbsp; Most Used Languages</h3>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kavisperera&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="kavisperer" width="410"/>
   <h3 align="right">🛠 &nbsp; Github Status</h3>
- <img align="right" src="https://github-readme-stats.vercel.app/api?username=kavisperera&show_icons=true&locale=en&theme=gruvbox" alt="kavisperera" width="480" />
+ <img align="right" src="https://github-readme-stats.vercel.app/api?username=kavisperera&show_icons=true&locale=en&theme=gruvbox" alt="kavisperera" width="500" />
 </p>
 
 <br><br> <!-- This will add more space between the images -->
@@ -162,7 +162,7 @@
 <br><br> <!-- Additional space if needed -->
 
 <h3 align="center">🛠 &nbsp; Streak Stats</h3>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kavisperera&theme=algolia" alt="muhammadfaizanhaidar"  /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kavisperera&theme=algolia" alt="kavisperera"  /></p>
 
 <p align="center">
   <a href="https://github.com/kavisperera">
