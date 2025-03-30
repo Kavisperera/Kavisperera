@@ -30,11 +30,11 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # Step 3: Deploy the generated files to the 'output' branch
+      # Step 3: Deploy to Output Branch
       - name: Deploy to Output Branch
         uses: peaceiris/actions-gh-pages@v3
         with:
-          personal_token: ${{ secrets.GH_PAT }}  # Use your PAT instead of GITHUB_TOKEN
+          personal_token: ${{ secrets.GH_PAT }}  # Use your secret GH_PAT
           publish_dir: ./dist
           publish_branch: output
           commit_message: "Update snake animation [skip ci]"
