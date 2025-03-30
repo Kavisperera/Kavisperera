@@ -64,7 +64,7 @@
 
 <p align="center">
   <a href="https://x.com/Kavisperera" target="_blank">
-   <img src="https://img.shields.io/twitter/follow/Kavisperera?logo=twitter&style=for-the-badge" alt="Kavisperera" />
+   
   </a>
 </p>
 
